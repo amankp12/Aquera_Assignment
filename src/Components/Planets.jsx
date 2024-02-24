@@ -31,7 +31,7 @@ const Planets = () => {
         }}
       >
         <h2 className="mb-4 text-center text-2xl font-bold text-white md:mb-6 lg:text-3xl">
-          Welcome to The Tour
+          Welcome to The Star Wars
         </h2>
       </div>
       <div className="p-8 pt-0 mt-4 grid gap-4 sm:grid-cols-2 md:gap-6 lg:grid-cols-3 xl:grid-cols-5 xl:gap-8 ">

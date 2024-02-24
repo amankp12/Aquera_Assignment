@@ -9,7 +9,7 @@ const Loading = () => {
         <div className="pb-4">
           <LuLoader2 className="animate-spin" size={28} />
         </div>
-        <h1 className="text-2xl">LOADING</h1>
+        <h1 className="text-2xl">LOADING...</h1>
       </div>
     </div>
   );
